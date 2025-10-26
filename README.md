@@ -73,8 +73,4 @@ This dashboard empowers stakeholders to:
 
 ## 🧾 File Info
 - **Report File:** `Performance Dashboard.pbix`  
-- **Data File:** `PowerBI Project Data.xlsx`  
-
-
-
-### ⭐ If you like this dashboard, don’t forget to give the repo a star!
+- **Data File:** `PowerBI Project Data.xlsx` 
